@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa68f41e-7ba6-46c8-972d-a00fea7d967b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLhMXYey6eufeZ73jP9KQfhHf2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Desktop\webcrawler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Desktop\webcrawler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.web_crawler">
+    <configuration name="soup_master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webcrawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soup_master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webcrawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.web_crawler" />
+        <item itemvalue="Python.soup_master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa68f41e-7ba6-46c8-972d-a00fea7d967b" name="Default Changelist" comment="" />
+      <created>1586520733715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586520733715</updated>
+      <workItem from="1586520735276" duration="9274000" />
+      <workItem from="1586531676512" duration="1218000" />
+      <workItem from="1586537373722" duration="1283000" />
+      <workItem from="1586543324334" duration="21000" />
+      <workItem from="1586587034403" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586528919409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586528919409" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586523557890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586523557890" />
+    <state width="1534" height="440" key="DebuggerActiveHint" timestamp="1586528700192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1534" height="440" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1586528700192" />
+    <state width="723" height="347" key="GridCell.Tab.0.bottom" timestamp="1586541140997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586541140997" />
+    <state width="723" height="347" key="GridCell.Tab.0.center" timestamp="1586541140997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="347" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586541140997" />
+    <state width="723" height="347" key="GridCell.Tab.0.left" timestamp="1586541140997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="347" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586541140997" />
+    <state width="723" height="347" key="GridCell.Tab.0.right" timestamp="1586541140997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="347" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586541140997" />
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom" timestamp="1586531235185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586531235185" />
+    <state width="1493" height="182" key="GridCell.Tab.1.center" timestamp="1586531235185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586531235185" />
+    <state width="1493" height="182" key="GridCell.Tab.1.left" timestamp="1586531235185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586531235185" />
+    <state width="1493" height="182" key="GridCell.Tab.1.right" timestamp="1586531235185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586531235185" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1586526643192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1586526643192" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webcrawler$soup_master.coverage" NAME="soup_master Coverage Results" MODIFIED="1586526707494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webcrawler$web_crawler.coverage" NAME="web_crawler Coverage Results" MODIFIED="1586538030473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
